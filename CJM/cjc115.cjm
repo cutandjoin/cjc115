@@ -1,7 +1,8 @@
-REM CJC sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
-REM DIRINDEX 1\2,1\3,1\4,1\5\6,1\5\7,1\8
-REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder07
+CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
+DIRINDEX 1\2,1\3,1\4,1\5\6,1\5\7,1\8
+DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder07
 
+#
 001 【001】Unit1 (0001 budget_0012 generate).mp3
 00:00:00 0:
 00:00:07 8:cjc115_0001
@@ -78,6 +79,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:60 0:
 01:36:70 4:cjc115_0037
 01:40:42 0:
+#
 002 【002】Unit1 (0013 species_0024 confirm).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0038
@@ -152,6 +154,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:19 0:
 01:39:29 4:cjc115_0073
 01:44:23 0:
+#
 003 【003】Unit1 (0025 renew_0036 regulation).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0074
@@ -226,6 +229,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:21 0:
 01:33:33 4:cjc115_0109
 01:38:57 0:
+#
 004 【004】Unit1 (0037 address_0048 resource).mp3
 00:00:00 0:
 00:00:05 2:cjc115_0110
@@ -300,6 +304,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:60 0:
 01:43:70 4:cjc115_0145
 01:47:35 0:
+#
 005 【005】Unit1 (0049 optimistic_0060 impact).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0146
@@ -374,6 +379,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:10 0:
 01:35:14 4:cjc115_0181
 01:38:61 0:
+#
 006 【006】Unit1 (0061 fund_0072 survey).mp3
 00:00:00 0:
 00:00:05 2:cjc115_0182
@@ -448,6 +454,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:57 0:
 01:32:68 4:cjc115_0217
 01:38:42 0:
+#
 007 【007】Unit1 (0073 challenge_0084 structure).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0218
@@ -522,6 +529,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:08 0:
 01:38:16 4:cjc115_0253
 01:43:21 0:
+#
 008 【008】Unit1 (0085 overdue_0096 interact).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0254
@@ -596,6 +604,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:58 0:
 01:33:64 4:cjc115_0289
 01:38:42 0:
+#
 009 【009】Unit1 (0097 effective_0108 surrounding).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0290
@@ -670,6 +679,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:09 0:
 01:37:17 4:cjc115_0325
 01:41:40 0:
+#
 010 【010】Unit1 (0109 reluctant_0120 insurance).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0326
@@ -744,6 +754,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:59 0:
 01:35:65 4:cjc115_0361
 01:40:72 0:
+#
 011 【011】Unit1 (0121 prejudice_0132 bribe).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0362
@@ -818,6 +829,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:23 0:
 01:39:31 4:cjc115_0397
 01:42:35 0:
+#
 012 【012】Unit1 (0133 imitate_0144 extravagant).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0398
@@ -892,6 +904,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:44:03 0:
 01:44:11 4:cjc115_0433
 01:48:48 0:
+#
 013 【013】Unit1 (0145 update_0156 suspend).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0434
@@ -966,6 +979,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:62 0:
 01:33:66 4:cjc115_0469
 01:38:73 0:
+#
 014 【014】Unit1 (0157 boost_0168 corrupt).mp3
 00:00:00 0:
 00:00:05 2:cjc115_0470
@@ -1040,6 +1054,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:34:71 0:
 01:35:04 4:cjc115_0505
 01:38:47 0:
+#
 015 【015】Unit1 (0169 relevant_0180 dismiss).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0506
@@ -1114,6 +1129,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:74 0:
 01:37:05 4:cjc115_0541
 01:40:54 0:
+#
 016 【016】Unit1 (0181 fascination_0192 syndrome).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0542
@@ -1188,6 +1204,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:31 0:
 01:43:41 4:cjc115_0577
 01:47:33 0:
+#
 017 【017】Unit1 (0193 hostile_0204 properly).mp3
 00:00:00 0:
 00:00:05 2:cjc115_0578
@@ -1262,6 +1279,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:15 0:
 01:37:26 4:cjc115_0613
 01:42:02 0:
+#
 018 【018】Unit1 (0205 violation_0216 criticism).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0614
@@ -1336,6 +1354,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:62 0:
 01:33:01 4:cjc115_0649
 01:36:68 0:
+#
 019 【019】Unit1 (DATA FILE_長文問題に出現する専門用語1).mp3
 00:00:00 0:
 00:00:01 8:cjc115_0650
@@ -1568,6 +1587,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:53:22 0:
 03:53:32 7:cjc115_0764
 03:56:07 0:
+#
 020 【020】Unit2 (0217 artifact_0228 deceased).mp3
 00:00:00 0:
 00:00:07 8:cjc115_0765
@@ -1644,6 +1664,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:37 0:
 01:39:41 4:cjc115_0801
 01:43:33 0:
+#
 021 【021】Unit2 (0229 bankrupt_0240 complex).mp3
 00:00:00 0:
 00:00:05 2:cjc115_0802
@@ -1718,6 +1739,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:39 0:
 01:36:48 4:cjc115_0837
 01:41:14 0:
+#
 022 【022】Unit2 (0241 notify_0252 nutritious).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0838
@@ -1792,6 +1814,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:32 0:
 01:30:42 4:cjc115_0873
 01:34:46 0:
+#
 023 【023】Unit2 (0253 barren_0264 harvest).mp3
 00:00:00 0:
 00:00:05 2:cjc115_0874
@@ -1866,6 +1889,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:54 0:
 01:40:62 4:cjc115_0909
 01:43:41 0:
+#
 024 【024】Unit2 (0265 merit_0276 heritage).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0910
@@ -1940,6 +1964,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:62 0:
 01:40:72 4:cjc115_0945
 01:46:51 0:
+#
 025 【025】Unit2 (0277 emission_0288 inspire).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0946
@@ -2014,6 +2039,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:29:37 0:
 01:29:45 4:cjc115_0981
 01:34:54 0:
+#
 026 【026】Unit2 (0289 coalition_0300 heed).mp3
 00:00:00 0:
 00:00:07 2:cjc115_0982
@@ -2088,6 +2114,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:41:10 0:
 01:41:18 4:cjc115_1017
 01:43:64 0:
+#
 027 【027】Unit2 (0301 axis_0312 inject).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1018
@@ -2162,6 +2189,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:35 0:
 01:36:41 4:cjc115_1053
 01:40:11 0:
+#
 028 【028】Unit2 (0313 distress_0324 spontaneous).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1054
@@ -2236,6 +2264,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:38 0:
 01:33:42 4:cjc115_1089
 01:37:54 0:
+#
 029 【029】Unit2 (0325 bystander_0336 brochure).mp3
 00:00:00 0:
 00:00:05 2:cjc115_1090
@@ -2310,6 +2339,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:53 0:
 01:39:63 4:cjc115_1125
 01:43:41 0:
+#
 030 【030】Unit2 (0337 assignment_0348 capacity).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1126
@@ -2384,6 +2414,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:01 0:
 01:37:13 4:cjc115_1161
 01:42:04 0:
+#
 031 【031】Unit2 (0349 cherish_0360 dismal).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1162
@@ -2458,6 +2489,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:17 0:
 01:32:25 4:cjc115_1197
 01:36:03 0:
+#
 032 【032】Unit2 (0361 institution_0372 clutch).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1198
@@ -2532,6 +2564,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:11 0:
 01:40:17 4:cjc115_1233
 01:43:64 0:
+#
 033 【033】Unit2 (0373 originate_0384 oversee).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1234
@@ -2606,6 +2639,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:66 0:
 01:36:72 4:cjc115_1269
 01:41:12 0:
+#
 034 【034】Unit2 (0385 artificial_0396 harsh).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1270
@@ -2680,6 +2714,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:46 0:
 01:37:60 4:cjc115_1305
 01:42:04 0:
+#
 035 【035】Unit2 (0397 integrate_0408 vital).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1306
@@ -2754,6 +2789,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:41:56 0:
 01:41:63 4:cjc115_1341
 01:45:26 0:
+#
 036 【036】Unit2 (0409 prominent_0420 opponent).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1342
@@ -2828,6 +2864,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:28 0:
 01:38:36 4:cjc115_1377
 01:41:54 0:
+#
 037 【037】Unit2 (0421 immediate_0432 launch).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1378
@@ -2902,6 +2939,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:29 0:
 01:33:36 4:cjc115_1413
 01:36:35 0:
+#
 038 【038】Unit2 (DATA FILE_長文問題に出現する専門用語2).mp3
 00:00:00 0:
 00:00:07 8:cjc115_1414
@@ -3130,6 +3168,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:10:44 0:
 04:10:54 7:cjc115_1526
 04:12:02 0:
+#
 039 【039】Unit3 (0433 recommend_0444 problematic).mp3
 00:00:00 0:
 00:00:07 8:cjc115_1527
@@ -3206,6 +3245,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:71 0:
 01:39:06 4:cjc115_1563
 01:43:43 0:
+#
 040 【040】Unit3 (0445 dubious_0456 esteem).mp3
 00:00:00 0:
 00:00:01 2:cjc115_1564
@@ -3280,6 +3320,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:41:09 0:
 01:41:20 4:cjc115_1599
 01:45:71 0:
+#
 041 【041】Unit3 (0457 selective_0468 fictitious).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1600
@@ -3354,6 +3395,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:25 0:
 01:36:39 4:cjc115_1635
 01:40:58 0:
+#
 042 【042】Unit3 (0469 qualified_0480 novelty).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1636
@@ -3428,6 +3470,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:19 0:
 01:39:29 4:cjc115_1671
 01:42:16 0:
+#
 043 【043】Unit3 (0481 prestigious_0492 merger).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1672
@@ -3502,6 +3545,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:34:55 0:
 01:34:63 4:cjc115_1707
 01:38:06 0:
+#
 044 【044】Unit3 (0493 revolt_0504 productivity).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1708
@@ -3576,6 +3620,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:21 0:
 01:37:28 4:cjc115_1743
 01:41:22 0:
+#
 045 【045】Unit3 (0505 hazard_0516 disturb).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1744
@@ -3650,6 +3695,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:35 0:
 01:39:45 4:cjc115_1779
 01:43:39 0:
+#
 046 【046】Unit3 (0517 migration_0528 inmate).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1780
@@ -3724,6 +3770,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:30 0:
 01:37:36 4:cjc115_1815
 01:41:03 0:
+#
 047 【047】Unit3 (0529 toxic_0540 convey).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1816
@@ -3798,6 +3845,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:34:54 0:
 01:34:59 4:cjc115_1851
 01:38:59 0:
+#
 048 【048】Unit3 (0541 rhetoric_0552 portray).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1852
@@ -3872,6 +3920,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:00 0:
 01:43:09 4:cjc115_1887
 01:47:50 0:
+#
 049 【049】Unit3 (0553 shrug_0564 corporation).mp3
 00:00:00 0:
 00:00:05 2:cjc115_1888
@@ -3946,6 +3995,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:27:44 0:
 01:27:53 4:cjc115_1923
 01:31:34 0:
+#
 050 【050】Unit3 (0565 ingredient_0576 tedious).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1924
@@ -4020,6 +4070,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:58 0:
 01:37:66 4:cjc115_1959
 01:42:67 0:
+#
 051 【051】Unit3 (0577 clerical_0588 notorious).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1960
@@ -4094,6 +4145,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:39 0:
 01:39:47 4:cjc115_1995
 01:43:00 0:
+#
 052 【052】Unit3 (0589 ambiguous_0600 hybrid).mp3
 00:00:00 0:
 00:00:07 2:cjc115_1996
@@ -4168,6 +4220,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:42:59 0:
 01:42:67 4:cjc115_2031
 01:47:25 0:
+#
 053 【053】Unit3 (0601 oppress_0612 discriminate).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2032
@@ -4242,6 +4295,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:37 0:
 01:35:51 4:cjc115_2067
 01:39:66 0:
+#
 054 【054】Unit3 (0613 degrade_0624 reap).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2068
@@ -4316,6 +4370,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:28 0:
 01:38:36 4:cjc115_2103
 01:42:67 0:
+#
 055 【055】Unit3 (0625 catastrophe_0636 decisive).mp3
 00:00:00 0:
 00:00:03 2:cjc115_2104
@@ -4390,6 +4445,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:42:18 0:
 01:42:24 4:cjc115_2139
 01:45:42 0:
+#
 056 【056】Unit3 (0637 binding_0648 foil).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2140
@@ -4464,6 +4520,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:45:67 0:
 01:46:00 4:cjc115_2175
 01:49:49 0:
+#
 057 【057】Unit3 (DATA FILE_長文問題に出現する専門用語3).mp3
 00:00:00 0:
 00:00:07 8:cjc115_2176
@@ -4692,6 +4749,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:10:52 0:
 04:10:58 7:cjc115_2288
 04:12:12 0:
+#
 058 【058】Unit4 (0649 parallel_0660 ascent).mp3
 00:00:00 0:
 00:00:07 8:cjc115_2289
@@ -4768,6 +4826,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:47:01 0:
 01:47:11 4:cjc115_2325
 01:51:58 0:
+#
 059 【059】Unit4 (0661 admittedly_0672 evaporate).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2326
@@ -4842,6 +4901,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:38 0:
 01:37:48 4:cjc115_2361
 01:43:52 0:
+#
 060 【060】Unit4 (0673 brisk_0684 treacherous).mp3
 00:00:00 0:
 00:00:05 2:cjc115_2362
@@ -4916,6 +4976,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:00 0:
 01:39:08 4:cjc115_2397
 01:43:51 0:
+#
 061 【061】Unit4 (0685 bleak_0696 disobedience).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2398
@@ -4990,6 +5051,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:26 0:
 01:38:32 4:cjc115_2433
 01:42:67 0:
+#
 062 【062】Unit4 (0697 mobilize_0708 unwittingly).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2434
@@ -5064,6 +5126,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:13 0:
 01:43:19 4:cjc115_2469
 01:48:11 0:
+#
 063 【063】Unit4 (0709 betray_0720 liberate).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2470
@@ -5138,6 +5201,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:60 0:
 01:40:70 4:cjc115_2505
 01:44:48 0:
+#
 064 【064】Unit4 (0721 loathe_0732 yardstick).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2506
@@ -5212,6 +5276,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:42:12 0:
 01:42:16 4:cjc115_2541
 01:46:61 0:
+#
 065 【065】Unit4 (0733 apparently_0744 reluctance).mp3
 00:00:00 0:
 00:00:01 2:cjc115_2542
@@ -5286,6 +5351,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:42:31 0:
 01:42:41 4:cjc115_2577
 01:46:72 0:
+#
 066 【066】Unit4 (0745 integral_0756 worsen).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2578
@@ -5360,6 +5426,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:19 0:
 01:43:27 4:cjc115_2613
 01:46:35 0:
+#
 067 【067】Unit4 (0757 curfew_0768 fulfill).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2614
@@ -5434,6 +5501,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:29 0:
 01:39:33 4:cjc115_2649
 01:43:25 0:
+#
 068 【068】Unit4 (0769 assessment_0780 incorporate).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2650
@@ -5508,6 +5576,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:41 0:
 01:39:49 4:cjc115_2685
 01:45:10 0:
+#
 069 【069】Unit4 (0781 nominate_0792 resignation).mp3
 00:00:00 0:
 00:00:01 2:cjc115_2686
@@ -5582,6 +5651,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:42:04 0:
 01:42:12 4:cjc115_2721
 01:45:44 0:
+#
 070 【070】Unit4 (0793 blockade_0804 censor).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2722
@@ -5656,6 +5726,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:41:56 0:
 01:41:63 4:cjc115_2757
 01:46:35 0:
+#
 071 【071】Unit4 (0805 inflict_0816 preoccupied).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2758
@@ -5730,6 +5801,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:58 0:
 01:40:68 4:cjc115_2793
 01:45:34 0:
+#
 072 【072】Unit4 (0817 dominance_0828 administration).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2794
@@ -5804,6 +5876,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:09 0:
 01:36:17 4:cjc115_2829
 01:41:22 0:
+#
 073 【073】Unit4 (0829 generalization_0840 fame).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2830
@@ -5878,6 +5951,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:09 0:
 01:37:21 4:cjc115_2865
 01:40:35 0:
+#
 074 【074】Unit4 (0841 unfold_0852 shrink).mp3
 00:00:00 0:
 00:00:07 2:cjc115_2866
@@ -5952,6 +6026,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:12 0:
 01:38:20 4:cjc115_2901
 01:42:12 0:
+#
 075 【075】Unit4 (0853 tragic_0864 possession).mp3
 00:00:00 0:
 00:00:01 2:cjc115_2902
@@ -6026,6 +6101,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:44 0:
 01:30:50 4:cjc115_2937
 01:33:68 0:
+#
 076 【076】Unit4 (DATA FILE_長文問題に出現する専門用語4).mp3
 00:00:00 0:
 00:00:01 8:cjc115_2938
@@ -6222,6 +6298,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:36:06 0:
 03:36:14 7:cjc115_3034
 03:37:35 0:
+#
 077 【077】Unit5 (0865 recession_0876 conviction).mp3
 00:00:00 0:
 00:00:07 8:cjc115_3035
@@ -6298,6 +6375,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:28:74 0:
 01:29:05 4:cjc115_3071
 01:33:54 0:
+#
 078 【078】Unit5 (0877 guideline_0888 infant).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3072
@@ -6372,6 +6450,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:29:09 0:
 01:29:17 4:cjc115_3107
 01:33:46 0:
+#
 079 【079】Unit5 (0889 retain_0900 approximately).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3108
@@ -6446,6 +6525,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:34:48 0:
 01:34:57 4:cjc115_3143
 01:38:49 0:
+#
 080 【080】Unit5 (0901 numerous_0912 engage).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3144
@@ -6520,6 +6600,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:56 0:
 01:33:68 4:cjc115_3179
 01:38:02 0:
+#
 081 【081】Unit5 (0913 procedure_0924 hinge).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3180
@@ -6594,6 +6675,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:25 0:
 01:33:33 4:cjc115_3215
 01:37:11 0:
+#
 082 【082】Unit5 (0925 troop_0936 symbolize).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3216
@@ -6668,6 +6750,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:01 0:
 01:30:07 4:cjc115_3251
 01:33:23 0:
+#
 083 【083】Unit5 (0937 pluck_0948 affluent).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3252
@@ -6742,6 +6825,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:28:69 0:
 01:28:74 4:cjc115_3287
 01:31:43 0:
+#
 084 【084】Unit5 (0949 obedient_0960 stubborn).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3288
@@ -6816,6 +6900,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:19 0:
 01:32:31 4:cjc115_3323
 01:36:52 0:
+#
 085 【085】Unit5 (0961 retrieve_0972 tentative).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3324
@@ -6890,6 +6975,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:27:69 0:
 01:28:04 4:cjc115_3359
 01:32:04 0:
+#
 086 【086】Unit5 (0973 arrogant_0984 complicate).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3360
@@ -6964,6 +7050,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:42:67 0:
 01:42:73 4:cjc115_3395
 01:46:57 0:
+#
 087 【087】Unit5 (0985 workplace_0996 complimentary).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3396
@@ -7038,6 +7125,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:61 0:
 01:31:69 4:cjc115_3431
 01:35:49 0:
+#
 088 【088】Unit5 (0997 deduct_1008 ignition).mp3
 00:00:00 0:
 00:00:03 2:cjc115_3432
@@ -7112,6 +7200,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:01 0:
 01:36:09 4:cjc115_3467
 01:40:33 0:
+#
 089 【089】Unit5 (1009 extinction_1020 inhibit).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3468
@@ -7186,6 +7275,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:51 0:
 01:31:57 4:cjc115_3503
 01:35:22 0:
+#
 090 【090】Unit5 (1021 friction_1032 removal).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3504
@@ -7260,6 +7350,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:05 0:
 01:37:11 4:cjc115_3539
 01:40:11 0:
+#
 091 【091】Unit5 (1033 conversion_1044 skull).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3540
@@ -7334,6 +7425,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:11 0:
 01:33:21 4:cjc115_3575
 01:35:71 0:
+#
 092 【092】Unit5 (1045 trait_1056 corridor).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3576
@@ -7408,6 +7500,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:15 0:
 01:37:28 4:cjc115_3611
 01:42:37 0:
+#
 093 【093】Unit5 (1057 consensus_1068 capability).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3612
@@ -7482,6 +7575,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:00 0:
 01:31:02 4:cjc115_3647
 01:35:53 0:
+#
 094 【094】Unit5 (1069 council_1080 urge).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3648
@@ -7556,6 +7650,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:00 0:
 01:36:05 4:cjc115_3683
 01:39:49 0:
+#
 095 【095】Unit5 (DATA FILE_長文問題に出現する専門用語5).mp3
 00:00:00 0:
 00:00:01 8:cjc115_3684
@@ -7720,6 +7815,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:00:67 0:
 03:01:04 7:cjc115_3764
 03:02:52 0:
+#
 096 【096】Unit6 (1081 existence_1092 investigation).mp3
 00:00:00 0:
 00:00:07 8:cjc115_3765
@@ -7796,6 +7892,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:73 0:
 01:38:00 4:cjc115_3801
 01:41:69 0:
+#
 097 【097】Unit6 (1093 accompany_1104 disgust).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3802
@@ -7870,6 +7967,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:06 0:
 01:31:10 4:cjc115_3837
 01:36:09 0:
+#
 098 【098】Unit6 (1105 collision_1116 warranty).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3838
@@ -7944,6 +8042,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:42:45 0:
 01:42:51 4:cjc115_3873
 01:46:45 0:
+#
 099 【099】Unit6 (1117 reliance_1128 breakup).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3874
@@ -8018,6 +8117,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:74 0:
 01:33:05 4:cjc115_3909
 01:36:39 0:
+#
 100 【100】Unit6 (1129 subjective_1140 recede).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3910
@@ -8092,6 +8192,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:34:71 0:
 01:35:08 4:cjc115_3945
 01:38:00 0:
+#
 101 【101】Unit6 (1141 deliberate_1152 compile).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3946
@@ -8166,6 +8267,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:29:31 0:
 01:29:41 4:cjc115_3981
 01:32:70 0:
+#
 102 【102】Unit6 (1153 wholesome_1164 antiquity).mp3
 00:00:00 0:
 00:00:07 2:cjc115_3982
@@ -8240,6 +8342,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:13 0:
 01:33:25 4:cjc115_4017
 01:38:14 0:
+#
 103 【103】Unit6 (1165 warehouse_1176 rally).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4018
@@ -8314,6 +8417,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:43 0:
 01:35:53 4:cjc115_4053
 01:39:35 0:
+#
 104 【104】Unit6 (1177 plunge_1188 preliminary).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4054
@@ -8388,6 +8492,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:42:26 0:
 01:42:37 4:cjc115_4089
 01:47:19 0:
+#
 105 【105】Unit6 (1189 shove_1200 crawl).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4090
@@ -8462,6 +8567,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:44 0:
 01:33:52 4:cjc115_4125
 01:38:43 0:
+#
 106 【106】Unit6 (1201 counterpart_1212 physics).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4126
@@ -8536,6 +8642,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:64 0:
 01:32:74 4:cjc115_4161
 01:35:71 0:
+#
 107 【107】Unit6 (1213 highlight_1224 storage).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4162
@@ -8610,6 +8717,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:72 0:
 01:34:03 4:cjc115_4197
 01:37:71 0:
+#
 108 【108】Unit6 (1225 vessel_1236 biological).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4198
@@ -8684,6 +8792,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:34:61 0:
 01:34:73 4:cjc115_4233
 01:39:63 0:
+#
 109 【109】Unit6 (1237 respondent_1248 welfare).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4234
@@ -8758,6 +8867,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:29:25 0:
 01:29:33 4:cjc115_4269
 01:32:04 0:
+#
 110 【110】Unit6 (1249 reference_1260 timidity).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4270
@@ -8832,6 +8942,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:09 0:
 01:40:11 4:cjc115_4305
 01:43:60 0:
+#
 111 【111】Unit6 (1261 numb_1272 instrumental).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4306
@@ -8906,6 +9017,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:43 0:
 01:36:50 4:cjc115_4341
 01:41:46 0:
+#
 112 【112】Unit6 (1273 amnesty_1284 downturn).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4342
@@ -8980,6 +9092,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:39 0:
 01:39:45 4:cjc115_4377
 01:45:00 0:
+#
 113 【113】Unit6 (1285 congregate_1296 disperse).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4378
@@ -9054,6 +9167,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:51 0:
 01:31:59 4:cjc115_4413
 01:35:10 0:
+#
 114 【114】Unit6 (DATA FILE_長文問題に出現する専門用語6).mp3
 00:00:00 0:
 00:00:07 8:cjc115_4414
@@ -9238,6 +9352,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:23:15 0:
 03:23:19 7:cjc115_4504
 03:24:44 0:
+#
 115 【115】Unit7 (1297 scorn_1308 generosity).mp3
 00:00:00 0:
 00:00:07 8:cjc115_4505
@@ -9314,6 +9429,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:29:48 0:
 01:29:52 4:cjc115_4541
 01:34:54 0:
+#
 116 【116】Unit7 (1309 swarm_1320 sanitation).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4542
@@ -9388,6 +9504,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:64 0:
 01:32:74 4:cjc115_4577
 01:36:72 0:
+#
 117 【117】Unit7 (1321 token_1332 discord).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4578
@@ -9462,6 +9579,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:51 0:
 01:35:53 4:cjc115_4613
 01:39:66 0:
+#
 118 【118】Unit7 (1333 perimeter_1344 sprout).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4614
@@ -9536,6 +9654,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:19 0:
 01:36:25 4:cjc115_4649
 01:40:01 0:
+#
 119 【119】Unit7 (1345 pinpoint_1356 horrify).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4650
@@ -9610,6 +9729,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:29:66 0:
 01:29:74 4:cjc115_4685
 01:33:33 0:
+#
 120 【120】Unit7 (1357 subtract_1368 scarce).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4686
@@ -9684,6 +9804,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:55 0:
 01:35:65 4:cjc115_4721
 01:40:44 0:
+#
 121 【121】Unit7 (1369 condiment_1380 candid).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4722
@@ -9758,6 +9879,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:34:71 0:
 01:35:02 4:cjc115_4757
 01:37:50 0:
+#
 122 【122】Unit7 (1381 adverse_1392 empathy).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4758
@@ -9832,6 +9954,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:34 0:
 01:37:40 4:cjc115_4793
 01:42:43 0:
+#
 123 【123】Unit7 (1393 probe_1404 disrupt).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4794
@@ -9906,6 +10029,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:04 0:
 01:31:10 4:cjc115_4829
 01:35:18 0:
+#
 124 【124】Unit7 (1405 deteriorate_1416 aristocrat).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4830
@@ -9980,6 +10104,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:19 0:
 01:39:31 4:cjc115_4865
 01:43:07 0:
+#
 125 【125】Unit7 (1417 sturdy_1428 cult).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4866
@@ -10054,6 +10179,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:42 0:
 01:33:46 4:cjc115_4901
 01:35:47 0:
+#
 126 【126】Unit7 (1429 nurture_1440 meditate).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4902
@@ -10128,6 +10254,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:33 0:
 01:36:43 4:cjc115_4937
 01:39:39 0:
+#
 127 【127】Unit7 (1441 roam_1452 haunt).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4938
@@ -10202,6 +10329,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:07 0:
 01:36:09 4:cjc115_4973
 01:41:38 0:
+#
 128 【128】Unit7 (1453 flaw_1464 pinch).mp3
 00:00:00 0:
 00:00:07 2:cjc115_4974
@@ -10276,6 +10404,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:49 0:
 01:35:57 4:cjc115_5009
 01:38:34 0:
+#
 129 【129】Unit7 (1465 raid_1476 diameter).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5010
@@ -10350,6 +10479,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:56 0:
 01:30:62 4:cjc115_5045
 01:33:58 0:
+#
 130 【130】Unit7 (1477 illogical_1488 superficial).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5046
@@ -10424,6 +10554,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:04 0:
 01:38:14 4:cjc115_5081
 01:41:44 0:
+#
 131 【131】Unit7 (DATA FILE_語彙力を高める接頭辞・接尾辞1).mp3
 00:00:00 0:
 00:00:07 8:cjc115_5082
@@ -10620,6 +10751,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:50:00 0:
 03:50:08 7:cjc115_5178
 03:51:33 0:
+#
 132 【132】Unit8 (1489 formulate_1500.mp3
 00:00:00 0:
 00:00:07 8:cjc115_5179
@@ -10696,6 +10828,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:08 0:
 01:35:18 4:cjc115_5215
 01:39:17 0:
+#
 133 【133】Unit8 (1501 spell_1512 landmark).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5216
@@ -10770,6 +10903,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:41:05 0:
 01:41:10 4:cjc115_5251
 01:45:10 0:
+#
 134 【134】Unit8 (1513 forum_1524 flip).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5252
@@ -10844,6 +10978,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:27 0:
 01:36:37 4:cjc115_5287
 01:39:66 0:
+#
 135 【135】Unit8 (1525 recipient_1536 cognitive).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5288
@@ -10918,6 +11053,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:03 0:
 01:36:09 4:cjc115_5323
 01:39:12 0:
+#
 136 【136】Unit8 (1537 stem_1548 desperate).mp3
 00:00:00 0:
 00:00:05 2:cjc115_5324
@@ -10992,6 +11128,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:42:67 0:
 01:43:00 4:cjc115_5359
 01:47:58 0:
+#
 137 【137】Unit8 (1549 scholarship_1560 quote).mp3
 00:00:00 0:
 00:00:09 2:cjc115_5360
@@ -11066,6 +11203,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:28:63 0:
 01:28:72 4:cjc115_5395
 01:32:02 0:
+#
 138 【138】Unit8 (1561 deserve_1572 faith).mp3
 00:00:00 0:
 00:00:01 2:cjc115_5396
@@ -11140,6 +11278,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:60 0:
 01:36:70 4:cjc115_5431
 01:40:09 0:
+#
 139 【139】Unit8 (1573 capital_1584 devise).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5432
@@ -11214,6 +11353,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:14 0:
 01:31:22 4:cjc115_5467
 01:35:29 0:
+#
 140 【140】Unit8 (1585 absurd_1596 intangible).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5468
@@ -11288,6 +11428,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:02 0:
 01:35:10 4:cjc115_5503
 01:40:25 0:
+#
 141 【141】Unit8 (1597 aquatic_1608 technically).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5504
@@ -11362,6 +11503,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:07 0:
 01:37:15 4:cjc115_5539
 01:41:73 0:
+#
 142 【142】Unit8 (1609 disorient_1620 pedestrian).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5540
@@ -11436,6 +11578,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:27 0:
 01:40:38 4:cjc115_5575
 01:45:14 0:
+#
 143 【143】Unit8 (1621 shipment_1632 complacent).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5576
@@ -11510,6 +11653,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:58 0:
 01:37:68 4:cjc115_5611
 01:42:33 0:
+#
 144 【144】Unit8 (1633 well-off_1644 burnout).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5612
@@ -11584,6 +11728,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:01 0:
 01:36:09 4:cjc115_5647
 01:39:37 0:
+#
 145 【145】Unit8 (1645 escalate_1656 dependency).mp3
 00:00:00 0:
 00:00:03 2:cjc115_5648
@@ -11658,6 +11803,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:13 0:
 01:32:21 4:cjc115_5683
 01:35:20 0:
+#
 146 【146】Unit8 (1657 grind_1668 prerequisite).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5684
@@ -11732,6 +11878,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:30 0:
 01:38:42 4:cjc115_5719
 01:42:31 0:
+#
 147 【147】Unit8 (1669 compassion_1680 strenuous).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5720
@@ -11806,6 +11953,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:04 0:
 01:32:13 4:cjc115_5755
 01:35:51 0:
+#
 148 【148】Unit8 (DATA FILE_語彙力を高める接頭辞・接尾辞2).mp3
 00:00:00 0:
 00:00:07 8:cjc115_5756
@@ -11990,6 +12138,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:41:38 0:
 03:41:44 7:cjc115_5846
 03:44:33 0:
+#
 149 【149】Unit9 (1681 call for ～_1692 bring up).mp3
 00:00:00 0:
 00:00:01 8:cjc115_5847
@@ -12066,6 +12215,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:09 0:
 01:43:19 4:cjc115_5883
 01:45:61 0:
+#
 150 【150】Unit9 (1693 go over ～_1704 drop off).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5884
@@ -12140,6 +12290,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:33 0:
 01:40:44 4:cjc115_5919
 01:43:41 0:
+#
 151 【151】Unit9 (1705 pass off_1716 stem from ～).mp3
 00:00:00 0:
 00:00:07 2:cjc115_5920
@@ -12214,6 +12365,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:24 0:
 01:38:26 4:cjc115_5955
 01:42:18 0:
+#
 152 【152】Unit9 (1717 set out to do_1728 report to ～).mp3
 00:00:00 0:
 00:00:05 2:cjc115_5956
@@ -12288,6 +12440,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:47:50 0:
 01:47:62 4:cjc115_5991
 01:51:64 0:
+#
 153 【153】Unit9 (1729 settle down_1740 distract A from B).mp3
 00:00:00 0:
 00:00:01 2:cjc115_5992
@@ -12362,6 +12515,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:41:01 0:
 01:41:09 4:cjc115_6027
 01:44:32 0:
+#
 154 【154】Unit9 (1741 branch out_1752 bear with ～).mp3
 00:00:00 0:
 00:00:07 2:cjc115_6028
@@ -12436,6 +12590,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:46:53 0:
 01:46:65 4:cjc115_6063
 01:52:02 0:
+#
 155 【155】Unit9 (1753 want for ～_1764 shake up).mp3
 00:00:00 0:
 00:00:05 2:cjc115_6064
@@ -12510,6 +12665,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:17 0:
 01:43:19 4:cjc115_6099
 01:45:73 0:
+#
 156 【156】Unit9 (1765 relate to ～_1776 blame A on B).mp3
 00:00:00 0:
 00:00:07 2:cjc115_6100
@@ -12584,6 +12740,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:66 0:
 01:41:01 4:cjc115_6135
 01:44:60 0:
+#
 157 【157】Unit9 (1777 jump at ～_1788 be burned out).mp3
 00:00:00 0:
 00:00:07 2:cjc115_6136
@@ -12658,6 +12815,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:43 0:
 01:35:45 4:cjc115_6171
 01:39:45 0:
+#
 158 【158】Unit9 (1789 in moderation_1800 spell out).mp3
 00:00:00 0:
 00:00:07 2:cjc115_6172
@@ -12732,6 +12890,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:47:09 0:
 01:47:13 4:cjc115_6207
 01:50:09 0:
+#
 159 【159】Unit9 (1801 to no avail_1812 hang onto ～).mp3
 00:00:00 0:
 00:00:07 2:cjc115_6208
@@ -12806,6 +12965,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:44:72 0:
 01:45:02 4:cjc115_6243
 01:49:35 0:
+#
 160 【160】Unit9 (1813 drag on_1824 pass for ～).mp3
 00:00:00 0:
 00:00:07 2:cjc115_6244
@@ -12880,6 +13040,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:51:64 0:
 01:52:06 4:cjc115_6279
 01:56:10 0:
+#
 161 【161】Unit9 (DATA FILE_語彙力を高める接頭辞・接尾辞3).mp3
 00:00:00 0:
 00:00:01 8:cjc115_6280
@@ -13036,6 +13197,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:08:06 0:
 03:08:15 7:cjc115_6356
 03:09:54 0:
+#
 162 【162】Unit10 (1825 bank on ～_1836 go under).mp3
 00:00:00 0:
 00:00:07 8:cjc115_6357
@@ -13112,6 +13274,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:35:47 0:
 01:35:59 4:cjc115_6393
 01:38:63 0:
+#
 163 【163】Unit10 (1837 sink in_1848 in terms of ～).mp3
 00:00:00 0:
 00:00:07 2:cjc115_6394
@@ -13186,6 +13349,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:42:65 0:
 01:42:67 4:cjc115_6429
 01:46:70 0:
+#
 164 【164】Unit10 (1849 cope with ～_1860 pass over).mp3
 00:00:00 0:
 00:00:07 2:cjc115_6430
@@ -13260,6 +13424,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:50 0:
 01:37:56 4:cjc115_6465
 01:41:50 0:
+#
 165 【165】Unit10 (1861 get in on ～_1872 deal out).mp3
 00:00:00 0:
 00:00:07 2:cjc115_6466
@@ -13334,6 +13499,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:74 0:
 01:33:05 4:cjc115_6501
 01:37:32 0:
+#
 166 【166】Unit10 (1873 hold out_1884 tell on ～).mp3
 00:00:00 0:
 00:00:07 2:cjc115_6502
@@ -13408,6 +13574,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:40:70 0:
 01:41:09 4:cjc115_6537
 01:44:32 0:
+#
 167 【167】Unit10 (1885 follow up on ～_1896 as such).mp3
 00:00:00 0:
 00:00:01 2:cjc115_6538
@@ -13482,6 +13649,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:37:69 0:
 01:37:73 4:cjc115_6573
 01:43:11 0:
+#
 168 【168】Unit10 (1897 embark on ～_1908 stir up).mp3
 00:00:00 0:
 00:00:07 2:cjc115_6574
@@ -13556,6 +13724,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:44:23 0:
 01:44:30 4:cjc115_6609
 01:47:68 0:
+#
 169 【169】Unit10 (1909 the other way around_1920 make for ～).mp3
 00:00:00 0:
 00:00:03 2:cjc115_6610
@@ -13630,6 +13799,7 @@ REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:50:02 0:
 01:50:11 4:cjc115_6645
 01:53:65 0:
+#
 170 【170】Unit10 (DATA FILE_語彙力を高める接頭.mp3
 00:00:00 0:
 00:00:07 8:cjc115_6646
