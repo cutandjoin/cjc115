@@ -1,5 +1,5 @@
 REM DIRINDEX 1\2,1\3,1\4,1\5\6,1\5\7,1\8
-REM DIRNAME cjc115,folder01,folder02,folder03,folder04,folder05,folder06,folder07
+REM DIRNAME folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08
 TITLE ""
 FILE "086 Åy086ÅzUnit5 (0973 arrogant_0984 complicate).mp3" MP3
   TRACK 01 AUDIO
